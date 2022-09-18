@@ -1,0 +1,3 @@
+/Users/camcasey/Documents/471/Project3/OGLBaseLighting/build/CMakeFiles/P3Base.dir
+/Users/camcasey/Documents/471/Project3/OGLBaseLighting/build/CMakeFiles/edit_cache.dir
+/Users/camcasey/Documents/471/Project3/OGLBaseLighting/build/CMakeFiles/rebuild_cache.dir
